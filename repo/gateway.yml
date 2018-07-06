@@ -8,8 +8,8 @@ spring:
 zuul:
   routes:
     api-index:
-      path: /api/index/**
-      serviceId: index
+      path: /api/app/**
+      serviceId: app-service
     api-comment:
       path: /api/comment/**
       serviceId: comment
