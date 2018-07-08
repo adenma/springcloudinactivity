@@ -9,7 +9,7 @@ zuul:
   routes:
     api-index:
       path: /api/app/**
-      serviceId: app-service
+      serviceId: app
     api-comment:
       path: /api/comment/**
       serviceId: comment
