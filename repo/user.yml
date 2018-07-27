@@ -1,6 +1,6 @@
 
 server:
-  port: 8077
+  port: 8084
 spring:
   application:
     name: user
