@@ -6,4 +6,4 @@ spring:
   profiles:
     active: dev
 app:
-  test: 刷新配置测试new
+  test: 刷新配置测试new1111111
