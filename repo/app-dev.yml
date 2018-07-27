@@ -1,0 +1,9 @@
+server:
+  port: 8078
+spring:
+  application:
+    name: app
+  profiles:
+    active: dev
+app:
+  test: 刷新配置测试dev
