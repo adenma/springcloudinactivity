@@ -1,0 +1,9 @@
+server:
+  port: 8079
+spring:
+  application:
+    name: platform
+  profiles:
+    active: dev
+platform:
+  test: 刷新配置测试platform
