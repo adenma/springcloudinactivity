@@ -10,9 +10,9 @@ zuul:
     api-index:
       path: /api/app/**
       serviceId: app
-    api-comment:
-      path: /api/comment/**
-      serviceId: comment
+    api-platform:
+      path: /api/platform/**
+      serviceId: platform
     api-user:
       path: /api/user/**
       serviceId: user
